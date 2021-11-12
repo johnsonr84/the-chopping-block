@@ -3,4 +3,5 @@ node_modules/
 .DS_Store
 .idea
 notes.md
-catch-of-the-day/build/
+fullstack-react-seafood-menu/build/
+.env
