@@ -323,7 +323,7 @@ header.top h3:after {
   top: auto;
   bottom: 7px;
 }
-.fullstack-react-seafood-menu {
+.react-restaurant-menu {
   display: -webkit-box;
   display: flex;
   height: 90vh;
@@ -335,7 +335,7 @@ header.top h3:after {
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
-.fullstack-react-seafood-menu > * {
+.react-restaurant-menu > * {
   -webkit-box-flex: 1;
   flex: 1 4 auto;
   padding: 2rem;
@@ -347,20 +347,20 @@ header.top h3:after {
   box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
   overflow: scroll;
 }
-.fullstack-react-seafood-menu > *:first-child {
+.react-restaurant-menu > *:first-child {
   flex-shrink: 1;
   flex-basis: 50%;
   -webkit-transform: translateX(50%) rotateY(6deg) translateX(-50%);
   transform: translateX(50%) rotateY(6deg) translateX(-50%);
 }
-.fullstack-react-seafood-menu > *:nth-child(2) {
+.react-restaurant-menu > *:nth-child(2) {
   -webkit-transform: translateX(-50%) rotateY(-14deg) translateX(50%);
   transform: translateX(-50%) rotateY(-14deg) translateX(50%);
   border-left: 0;
   border-right: 0;
   min-width: 300px;
 }
-.fullstack-react-seafood-menu > *:last-child {
+.react-restaurant-menu > *:last-child {
   flex-shrink: 1;
   flex-basis: 50%;
   -webkit-transform: translateX(-50%) rotateY(10deg) translateX(50%) scale(1.08)
@@ -368,7 +368,7 @@ header.top h3:after {
   transform: translateX(-50%) rotateY(10deg) translateX(50%) scale(1.08)
     translateX(24px);
 }
-input#fold:not(:checked) ~ #main .fullstack-react-seafood-menu > * {
+input#fold:not(:checked) ~ #main .react-restaurant-menu > * {
   -webkit-transform: none;
   transform: none;
 }

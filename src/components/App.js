@@ -6,7 +6,7 @@ import Inventory from "./Inventory";
 class App extends React.Component {
     render() {
         return (
-            <div className="fullstack-react-seafood-menu">
+            <div className="react-restaurant-menu">
                 <div className="menu">
                     <Header tagline="Fresh Seafood Market" age={100} />
                 </div>
