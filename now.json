@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "fullstack-react-seafood-menu",
+  "name": "fullstack-react-meat-market",
   "builds": [
     {
       "src": "package.json",

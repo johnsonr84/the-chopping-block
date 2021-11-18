@@ -1,12 +1,15 @@
 import React from "react";
-import AddFishForm from "./AddFishForm";
+import AddMeatForm from "./AddMeatForm";
 
 class Inventory extends React.Component {
   render() {
     return (
       <div className="inventory">
         <h2>Inventory</h2>
-        <AddFishForm addFish={this.props.addFish} />
+        <AddMeatForm addMeat={this.props.addMeat} />
+        <button onClick={this.props.loadSampleMeats}>
+          Load Sample Meats
+        </button>
       </div>
     );
   }

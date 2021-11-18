@@ -268,7 +268,7 @@ header.top {
   text-align: center;
 }
 header.top h1 {
-  font-size: 14.4rem;
+  font-size: 9rem;
   line-height: 0.7;
   display: -webkit-box;
   display: flex;
@@ -284,9 +284,11 @@ header.top h1 .ofThe {
   justify-content: center;
   -webkit-box-align: center;
   align-items: center;
-  background: url('images/anchor.svg') center no-repeat;
+  background: url('images/cleavers.svg') center no-repeat;
   background-size: cover;
-  padding: 0 1rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  padding-bottom: 3.5rem;
 }
 header.top h1 .ofThe .of {
   padding-right: 2rem;
@@ -443,7 +445,7 @@ ul.order li span.count span {
 .order-title {
   text-align: center;
 }
-.fish-edit {
+.meat-edit {
   margin-bottom: 20px;
   border: 2px solid #000;
   overflow: hidden;
@@ -451,9 +453,9 @@ ul.order li span.count span {
   display: flex;
   flex-wrap: wrap;
 }
-.fish-edit input,
-.fish-edit textarea,
-.fish-edit select {
+.meat-edit input,
+.meat-edit textarea,
+.meat-edit select {
   width: 33.33%;
   padding: 10px;
   line-height: 1;
@@ -467,23 +469,23 @@ ul.order li span.count span {
   border-radius: 0;
   background: #fff;
 }
-.fish-edit input:focus,
-.fish-edit textarea:focus,
-.fish-edit select:focus {
+.meat-edit input:focus,
+.meat-edit textarea:focus,
+.meat-edit select:focus {
   outline: 0;
   background: #fef2de;
 }
-.fish-edit textarea {
+.meat-edit textarea {
   width: 100%;
 }
-.fish-edit input:last-of-type {
+.meat-edit input:last-of-type {
   width: 100%;
 }
-.fish-edit button {
+.meat-edit button {
   width: 100%;
   border: 0;
 }
-.list-of-fish {
+.list-of-meat {
   border-top: 2px solid #000;
   border-bottom: 1px solid #000;
   padding-top: 5px;
@@ -491,7 +493,7 @@ ul.order li span.count span {
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
 }
-.menu-fish {
+.menu-meat {
   border-bottom: 2px solid #000;
   border-top: 1px solid #000;
   padding-bottom: 2rem;
@@ -500,11 +502,11 @@ ul.order li span.count span {
   clear: both;
   overflow: hidden;
 }
-.menu-fish p {
+.menu-meat p {
   margin: 0;
   font-size: 1.8rem;
 }
-.menu-fish .fish-name {
+.menu-meat .meat-name {
   margin: 0;
   display: -webkit-box;
   display: flex;
@@ -513,12 +515,12 @@ ul.order li span.count span {
   -webkit-box-align: center;
   align-items: center;
 }
-.menu-fish .price {
+.menu-meat .price {
   font-size: 1.4rem;
   -webkit-box-pack: end;
   justify-content: flex-end;
 }
-.menu-fish img {
+.menu-meat img {
   float: left;
   width: 150px;
   margin-right: 1rem;

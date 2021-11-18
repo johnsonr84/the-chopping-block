@@ -3,12 +3,11 @@ import React from "react";
 const Header = props => (
     <header className="top">
         <h1>
-            Catch
+            Chopping
             <span className="ofThe">
-                <span className="of">Of</span>
                 <span className="the">The</span>
             </span>
-            Day
+            Block
         </h1>
         <h3 className="tagline">
             <span>{props.tagline}</span>
