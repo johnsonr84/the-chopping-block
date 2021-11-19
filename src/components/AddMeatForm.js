@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 class AddMeatForm extends React.Component {
     nameRef = React.createRef();
@@ -6,6 +7,10 @@ class AddMeatForm extends React.Component {
     statusRef = React.createRef();
     descRef = React.createRef();
     imageRef = React.createRef();
+
+    static propTypes = {
+        addMeat: PropTypes.func
+    };
 
     createMeat = event => {
         // 1.  stop the form from submitting
