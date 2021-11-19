@@ -5,3 +5,5 @@ node_modules/
 notes.md
 /build
 .env
+
+.vercel

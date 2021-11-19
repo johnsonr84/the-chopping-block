@@ -2,7 +2,7 @@
 const meats = {
   meat1: {
     name: "Chicken",
-    image: "/images/chicken.jpg",
+    image: "/images/chicken.png",
     desc:
       "Everyone’s favorite white meat. Chicken is the most common type of poultry in the world.",
     price: 829,
