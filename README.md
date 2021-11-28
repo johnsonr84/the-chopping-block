@@ -52,7 +52,7 @@ https://react-meat-market.vercel.app/
     </tr>
     <tr>
     <!-- <td><video playsinline="" src="https://player.vimeo.com/external/214724905.hd.mp4?s=5cd8253c819177881cc44457e4e6784c626a2599&amp;profile_id=174" muted="" autoplay="" loop="" height=400></video></td> -->
-      <td><img src="../chopping-block.png" height=500 alt="screenshot of the-chopping-block"></td>
+      <td><img src="./chopping-block.png" height=500 alt="screenshot of the-chopping-block"></td>
     </tr>
   </table>
 
