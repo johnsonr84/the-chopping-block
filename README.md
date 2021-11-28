@@ -48,7 +48,7 @@ https://react-meat-market.vercel.app/
 
   <table>
     <tr>
-      <td>react-portfolio example</td>
+      <td>The Chopping Block Example</td>
     </tr>
     <tr>
     <!-- <td><video playsinline="" src="https://player.vimeo.com/external/214724905.hd.mp4?s=5cd8253c819177881cc44457e4e6784c626a2599&amp;profile_id=174" muted="" autoplay="" loop="" height=400></video></td> -->
