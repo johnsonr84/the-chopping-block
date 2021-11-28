@@ -8,8 +8,7 @@
 ## Built With
 
 [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![Firebase](https://img.shields.io/badge/firebase-F7C52C?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 
 ## Table of Contents
 
@@ -40,7 +39,7 @@ https://github.com/johnsonr84/the-chopping-block
 
 ## Deployment
 
-https://react-meat-market.vercel.app/
+https://the-chopping-block.vercel.app/
 
 <!-- - [https://johnsonr84.github.io/react-portfolio/](https://johnsonr84.github.io/react-portfolio/) -->
 
