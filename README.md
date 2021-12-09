@@ -1,4 +1,9 @@
-# the-chopping-block
+<h1 align="center"><a href="https://the-chopping-block.vercel.app/">The Chopping Block! 🍖 </a></h1>
+
+## Description
+
+The Chopping Block - Interactive meat market to order and track inventory in a realtime database. The app is built in React. To view and use the deployed app "click" link below, "enter" a store name (or use the generated fun name) hit the "visit store" button, "sign in" via fb, twitter or gh, then "load" all the sample meats to start ordering. It's that simple! App utilizes a firebase auth for Github, Twitter or Facebook and is deployed to Vercel 😉 
+
 
 [![github-follow](https://img.shields.io/github/followers/johnsonr84.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/johnsonr84)
 [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/the-chopping-block?color=orange)](https://github.com/johnsonr84/the-chopping-block)
@@ -23,11 +28,7 @@
 - [License](#License)
 - [Resources](#Resources)
 - [Contact](#Contact)
-- [Designed and built by](#Designed-and-built-by)
-
-## Description
-
-The Chopping Block - Interactive meat market to order and track inventory in a realtime database. The app is built in React. To view and use the deployed app "click" link below, "enter" a store name (or use the generated fun name) hit the "visit store" button, "sign in" via fb, twitter or gh, then "load" all the sample meats to start ordering. It's that simple!
+- [Author](#Author)
 
 ## Outcome
 
@@ -89,7 +90,7 @@ This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
 Email: robertcjohnson1984@gmail.com
 
-## Designed and built by
+## Author
 
 Author(s): Rob Johnson  
  GitHub: https://github.com/johnsonr84/
