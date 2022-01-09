@@ -13,6 +13,7 @@ The Chopping Block - Interactive meat market to order and track inventory in a r
 ## Built With
 
 [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![node.js](https://img.shields.io/node/v/c?color=brightgreen)](https://nodejs.org/en/)
 [![Firebase](https://img.shields.io/badge/firebase-F7C52C?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 
 ## Table of Contents
@@ -42,8 +43,6 @@ https://github.com/johnsonr84/the-chopping-block
 
 https://the-chopping-block.vercel.app/
 
-<!-- - [https://johnsonr84.github.io/react-portfolio/](https://johnsonr84.github.io/react-portfolio/) -->
-
 ## Demo/Screenshots
 
   <table>
@@ -51,7 +50,6 @@ https://the-chopping-block.vercel.app/
       <td>The Chopping Block Example</td>
     </tr>
     <tr>
-    <!-- <td><video playsinline="" src="https://player.vimeo.com/external/214724905.hd.mp4?s=5cd8253c819177881cc44457e4e6784c626a2599&amp;profile_id=174" muted="" autoplay="" loop="" height=400></video></td> -->
       <td><img src="public/chopping-block.png" height=500 alt="screenshot of the-chopping-block"></td>
     </tr>
   </table>
